@@ -1,0 +1,6 @@
+{
+  "name": "SkyWatch Visual Interceptor",
+  "description": "Real-time AI-powered drone detection and visual tracking system using computer vision.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": []
+}
